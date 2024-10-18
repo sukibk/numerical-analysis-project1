@@ -38,8 +38,9 @@ The **Newton’s Method with Aitken’s Acceleration** typically provides the fa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sukibk/numerical-analysis-project1
+   mkdir root-finding-algorithms
    cd root-finding-algorithms
+   git clone https://github.com/sukibk/numerical-analysis-project1
    ```
 
 2. Run the `main.py` file:
