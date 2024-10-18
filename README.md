@@ -54,13 +54,6 @@ The **Newton’s Method with Aitken’s Acceleration** typically provides the fa
 
 ---
 
-## 🔮 Future Enhancements
-- Add more root-finding algorithms for comparison, such as the Secant Method or Hybrid Methods.
-- Implement visualization tools to plot convergence graphs.
-- Extend the comparison with real-world functions and additional metrics such as computational time.
-
----
-
 ## 📝 License
 This project is licensed under the MIT License.
 
