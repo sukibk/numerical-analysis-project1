@@ -38,7 +38,7 @@ The **Newton’s Method with Aitken’s Acceleration** typically provides the fa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/root-finding-algorithms.git
+   git clone https://github.com/sukibk/numerical-analysis-project1
    cd root-finding-algorithms
    ```
 
