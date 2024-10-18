@@ -20,8 +20,8 @@ Each algorithm is implemented in a separate Python file, and the project provide
 - **`fixed_point.py`**: Contains the implementation of the Fixed-Point Iteration method and its input/execution function.
 - **`bisection.py`**: Contains the implementation of the Bisection Method and its input/execution function.
 - **`false_position.py`**: Contains the implementation of the False Position Method and its input/execution function.
-- **`newton_method.py`**: Contains the implementation of Newton's Method and its input/execution function.
-- **`newton_method_acceleration.py`**: Contains the implementation of Newton's Method with Aitken's Acceleration and its input/execution function.
+- **`newtons_method.py`**: Contains the implementation of Newton's Method and its input/execution function.
+- **`newtons_method_acceleration.py`**: Contains the implementation of Newton's Method with Aitken's Acceleration and its input/execution function.
 
 ### Results
 Each method outputs the following data during execution:
