@@ -25,8 +25,7 @@ Each algorithm is implemented in a separate Python file, and the project provide
 - **`bisection.py`**: Contains the implementation of the Bisection Method and its input/execution function.
 - **`false_position.py`**: Contains the implementation of the False Position Method and its input/execution function.
 - **`newton_method.py`**: Contains the implementation of Newton's Method and its input/execution function.
-- **`newton_method_with_acceleration.py`**: Contains the implementation of Newton's Method with Aitken's Acceleration and its input/execution function.
-- **`.gitignore`**: Ignores the files `roots` and `conv`, ensuring that unnecessary output files or temporary files are not tracked by Git.
+- **`newton_method_acceleration.py`**: Contains the implementation of Newton's Method with Aitken's Acceleration and its input/execution function.
 
 ### Results
 Each method outputs the following data during execution:
