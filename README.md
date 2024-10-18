@@ -1,7 +1,3 @@
-Here's the `README.md` file content, properly formatted with Markdown for styling on GitHub:
-
----
-
 # Root-Finding Algorithms Comparison Project
 
 ## 📚 Overview
